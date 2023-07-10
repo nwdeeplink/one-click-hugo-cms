@@ -3,7 +3,7 @@ title: Our Coffee
 type: products
 image: /img/products-jumbotron.jpg
 intro:
-  heading: What we offer
+  heading: My name is Yo Han Lau
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
